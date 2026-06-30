@@ -36,6 +36,30 @@
 32.Inserted text tag <ins></ins>
 33.Strong tag <strong></strong>
 34.Mark tag <mark></mark>
+35.Delete tag <del></del>
+
+30-06-25
+
+1.form tag <form></form>
+2.Label tag <label></label>
+3.Input tag <input>
+4.Attributes type="" (text,number,date,email)
+5.Attributes placeholder=""
+6.Button tag <button></button>
+7.Select tag <select></select>
+8.Option tag <option></option>
+9.Attributes type=""(Radio,checkbox)
+10.Navigation tag <nav></nav>
+11.Header tag <header></haeder>
+12.Footer tag <footer></footer>
+13.Samll tag <small></small>
+14.Code tag <code></code>
+15.Pre define <pre></per>
+16.Script tag <script></script>
+17.Style tag <style></style>
+18.Span tag <span></span>
+19.Selection tag <selection></selection>
+20.Address tag <address></address>
 
 
 
